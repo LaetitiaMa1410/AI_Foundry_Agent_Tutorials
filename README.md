@@ -1,6 +1,7 @@
 # 🤖 AI Foundry Agent Tutorials
 
-Eine umfassende Sammlung von Tutorials, Beispielen und Best Practices für die Entwicklung von KI-Agenten mit Azu## 🎯 Beispiel Anwendungsfälle
+Eine umfassende Sammlung von Tutorials, Beispielen und Best Practices für die Entwicklung von KI-Agenten mit Azure
+🎯 Beispiel Anwendungsfälle
 
 - **🛒 Intelligenter Kundenservice** - 24/7 Chatbots für Online-Shop und In-Store KiosksAI Foundry und anderen modernen Frameworks.
 
